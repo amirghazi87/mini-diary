@@ -2,30 +2,30 @@ import { Translations } from "../../../shared/types";
 
 const translationsEn: Translations = {
 	// Menu (defined by macOS)
-	"about-app": "About {appName}",
+	"about-app": "درباره {appName}",
 	"bring-all-to-front": "Bring All to Front",
-	close: "Close",
-	copy: "Copy",
-	cut: "Cut",
-	edit: "Edit",
-	file: "File",
-	help: "Help",
+	close: "بستن",
+	copy: "کپی",
+	cut: "بریدن",
+	edit: "ویرایش",
+	file: "فایل",
+	help: "کمک",
 	"hide-app": "Hide {appName}",
 	"hide-others": "Hide Others",
-	minimize: "Minimize",
+	minimize: "",
 	paste: "Paste",
 	preferences: "Preferences",
 	"quit-app": "Quit {appName}",
 	redo: "Redo",
-	"select-all": "Select All",
-	"show-all": "Show All",
-	speech: "Speech",
-	"start-speaking": "Start Speaking",
-	"stop-speaking": "Stop Speaking",
-	undo: "Undo",
-	view: "View",
-	window: "Window",
-	zoom: "Zoom",
+	"select-all": "انتخاب همه",
+	"show-all": "نشان دادن همه",
+	speech: "صحبت",
+	"start-speaking": "شروع صحبت کردن",
+	"stop-speaking": "متوقف کردن صحبت",
+	undo: "برگشت",
+	view: "دیدن",
+	window: "پنجره",
+	zoom: "بزرگ کردن",
 
 	// Menu (app-specific)
 	export: "Export",
@@ -54,26 +54,26 @@ const translationsEn: Translations = {
 	saturday: "Saturday",
 
 	// Theme
-	dark: "Dark",
-	light: "Light",
-	theme: "Theme",
+	dark: "تیره",
+	light: "روشن",
+	theme: "تم",
 
 	// Calendar
-	today: "Today",
+	today: "امروز",
 
 	// Editor
 	"add-a-title": "Add a title",
-	bold: "Bold",
+	bold: "بولد",
 	bullets: "Bullets",
 	italic: "Italic",
-	list: "List",
-	"write-something": "Write something",
+	list: "لیست",
+	"write-something": "چیزی بنویسید",
 
 	// Search
-	clear: "Clear",
-	"no-results": "No results",
-	"no-title": "No title",
-	search: "Search",
+	clear: "پاک کردن",
+	"no-results": "بدون جواب",
+	"no-title": "بدون عنوان",
+	search: "پیدا کردن",
 
 	// Preferences
 	"allow-future-entries": "Allow entries in the future",
