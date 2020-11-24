@@ -12,11 +12,11 @@ const translationsFa: Translations = {
 	help: "کمک",
 	"hide-app": "مخفی کردن {appName}",
 	"hide-others": "مخفی کردن بقیه",
-	minimize: "",
+	minimize: "مینیمایز",
 	paste: "الصاق",
 	preferences: "تنظیمات",
 	"quit-app": "خروج از {appName}",
-	redo: "Redo",
+	redo: "دوباره انجام بده",
 	"select-all": "انتخاب همه",
 	"show-all": "نشان دادن همه",
 	speech: "صحبت",
@@ -67,7 +67,7 @@ const translationsFa: Translations = {
 	bullets: "نقطه‌ها",
 	italic: "مورب",
 	list: "لیست",
-	"write-something": "یه چیزی بنویس",
+	"write-something": "چیزی بنویسید",
 
 	// Search
 	clear: "پاک کردن",
@@ -82,12 +82,12 @@ const translationsFa: Translations = {
 	"enable-spellcheck": "بررسی تلفظ",
 	"first-day-of-week": "روز اول هفته",
 	"hide-titles": "مخفی کردن عنوان‌ها",
-	no: "اشتباه",
-	ok: "درست",
+	no: "نه",
+	ok: "بله",
 	"reset-diary": "بازنشانی دفترچه",
-	"reset-diary-confirm": "بله، من مطمئنم",
+	"reset-diary-confirm": "بله، مطمئن هستم",
 	"reset-diary-msg":
-		"از بازنشانی دفترچه خودتون مطمئنید؟ این عمل قابل بازگشت نیست. همه محتوا پاک می‌شود.",
+		"از بازنشانی دفترچه خودتون مطمئنی هستید؟ این عمل قابل بازگشت نیست. همه محتوا دفتر پاک می‌شود.",
 
 	// Password and directory
 	"change-directory": "تغییر دیکشنری",
@@ -110,15 +110,15 @@ const translationsFa: Translations = {
 	"wrong-password": "رمز عبور اشتباه",
 
 	// Statistics
-	"total-entries": "total entries",
-	"entries-per-week": "entries per week",
+	"total-entries": "جمع ورودی ها",
+	"entries-per-week": "وردی های هر هفته",
 	"streak-best": "entries in a row (record streak)",
 	"streak-current": "entries in a row (current streak)",
 	"total-words": "مجموع کلمات",
-	"words-per-entry": "words per entry",
+	"words-per-entry": "کلمات هر ورودی",
 
 	// Import
-	"import-error-msg": "An error occurred during the import",
+	"import-error-msg": "خطایی در فرایند وارد کردن به وجود آمد",
 	"import-error-title": "خطای وارد کردن",
 	"import-instructions-day-one":
 		"Open the Day One app and export your diary under File → Export → {format}. Unzip the created file. Select the resulting {format} file in the next step to import it into {appName}.",
