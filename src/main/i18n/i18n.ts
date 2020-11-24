@@ -7,8 +7,8 @@ import translationsDe from "./translations/de";
 import translationsEl from "./translations/el";
 import translationsEn from "./translations/en";
 import translationsEs from "./translations/es";
-import translationsFr from "./translations/fr";
 import translationsFa from "./translations/fa";
+import translationsFr from "./translations/fr";
 import translationsIs from "./translations/is";
 import translationsIt from "./translations/it";
 import translationsNo from "./translations/no";
@@ -23,8 +23,8 @@ const ALL_TRANSLATIONS: Record<string, Partial<Translations>> = {
 	el: translationsEl,
 	en: translationsEn,
 	es: translationsEs,
-	fr: translationsFr,
 	fa: translationsFa,
+	fr: translationsFr,
 	is: translationsIs,
 	it: translationsIt,
 	nb: translationsNo,
