@@ -87,7 +87,7 @@ const translationsFa: Translations = {
 	"reset-diary": "بازنشانی دفترچه",
 	"reset-diary-confirm": "بله، مطمئن هستم",
 	"reset-diary-msg":
-		"از بازنشانی دفترچه خودتون مطمئنی هستید؟ این عمل قابل بازگشت نیست. همه محتوا دفتر پاک می‌شود.",
+		"از بازنشانی دفترچه خودتون مطمئن هستید؟ این عمل قابل بازگشت نیست. همه محتوا دفتر پاک می‌شود.",
 
 	// Password and directory
 	"change-directory": "تغییر دیکشنری",
